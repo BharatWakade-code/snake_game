@@ -1,16 +1,35 @@
-# snake_game
+# 🐍 Snake Game (Flutter)
 
-A new Flutter project.
+A classic Snake Game built using **Flutter**, featuring smooth controls, dynamic gameplay, and a simple yet engaging UI. The game challenges players to control the snake, eat food, and grow longer without colliding with walls or itself.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎮 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🕹️ Smooth touch controls  
+- 🍎 Food spawning system  
+- 📈 Score tracking  
+- ⚡ Increasing difficulty as snake grows  
+- 💀 Game over detection (wall & self collision)  
+- 🔁 Restart game functionality  
+- 🎨 Clean and minimal UI  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Screenshots
+
+### 🟢 Gameplay Screen
+![Gameplay](https://github.com/user-attachments/assets/b50c33b6-594b-4bb4-83b6-53cc8041f63a)
+
+### 🔴 Game Over Screen
+![Game Over](https://github.com/user-attachments/assets/3bf1d9af-30ac-4396-97a8-d5b307fefd4f)
+
+---
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/BharatWakade-code/snake_game.git
+cd snake_game
+flutter pub get
+flutter run
